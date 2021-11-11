@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Icorebleidd
+- 👀 I’m interested in general programming, I love Python
+- 🌱 I’m currently learning AI
