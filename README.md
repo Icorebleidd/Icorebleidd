@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since my birth<br>📚 I'm currently learning ASP.NET<br>🎯 Goals: Create something useful<br>🎲 Fun fact: I like chess</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -26,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
 </div>
 
 ###
