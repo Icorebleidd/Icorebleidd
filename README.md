@@ -8,9 +8,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icorebleidd&theme=radical&hide_border=true" />
-</p>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Icorebleidd&theme=radical&hide_border=true" />
+</a>
 
 ![Footer](https://i.imgur.com/ddjIa8X.png)
