@@ -12,9 +12,9 @@
   <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   </a>
-  <a href="">
+  <!-- <a href="">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Icorebleidd&theme=radical&hide_border=true&card_width=320" />
-  </a>
+  </a> -->
 </p>
 
 ![Footer](https://i.imgur.com/ddjIa8X.png)
