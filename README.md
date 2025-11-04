@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact" />
 </p>
 
 ![Footer](https://i.imgur.com/ddjIa8X.png)
