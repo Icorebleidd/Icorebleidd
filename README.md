@@ -15,12 +15,14 @@
 
   <img 
     height="180"
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true"
     style="max-width: 100%; height: auto;"
   />
 
   <img
     height="180"
+    width="400"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
     style="max-width: 100%; height: auto;"
   />
