@@ -8,12 +8,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact" />
-</p>
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+      </td>
+      <td style="border: none; padding: 0;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ![Footer](https://i.imgur.com/ddjIa8X.png)
