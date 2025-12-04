@@ -20,7 +20,7 @@
 <p align="center">
   <img
     style="max-width:300px; width:60%; height:auto;"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Icorebleidd&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats-leonardo-tozzos-projects.vercel.app/?user=Icorebleidd&theme=radical&hide_border=true"
   />
 </p>
 
