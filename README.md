@@ -14,7 +14,7 @@
 <p align="center">
   <img
     style="max-width:300px; width:60%; height:auto;"
-    src="https://github-readme-stats-two-wine.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
+    src="https://github-readme-stats-gamma-seven-64.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
   />
 </p>
 <p align="center">
