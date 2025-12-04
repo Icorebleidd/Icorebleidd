@@ -13,13 +13,13 @@
 
 <p align="center">
   <img
-    style="max-width:300px; width:70%; height:auto;"
+    style="max-width:300px; width:50%; height:auto;"
     src="https://github-readme-stats-two-wine.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
   />
 </p>
 <p align="center">
   <img
-    style="max-width:300px; width:70%; height:auto;"
+    style="max-width:300px; width:50%; height:auto;"
     src="https://github-readme-streak-stats.herokuapp.com?user=Icorebleidd&theme=radical&hide_border=true"
   />
 </p>
