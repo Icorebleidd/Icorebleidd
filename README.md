@@ -1,5 +1,3 @@
-![Header](https://i.imgur.com/InS4dn0.png)
-
 <h1 align="center">Leonardo 🌌</h1>
 <p align="center">Developer</p>
 
@@ -11,13 +9,20 @@
 
 <br/>
 
-<!-- <img src="https://github-readme-stats-two-wine.vercel.app/api?username=Icorebleidd&theme=radical&show_icons=true&hide_border=true&count_private=true"/> -->
+<!-- CARD CONTAINER -->
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
-<p align="center">
-<img
-  src="https://github-readme-stats-two-wine.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
-/>
-</p>
+  <img
+    style="max-width: 420px; width:100%; height:auto;"
+    src="https://github-readme-stats-two-wine.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
+  />
+
+  <img
+    style="max-width: 420px; width:100%; height:auto;"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Icorebleidd&theme=radical&hide_border=true"
+  />
+
+</div>
 
 <br/>
 
