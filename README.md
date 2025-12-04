@@ -11,20 +11,17 @@
 
 <br/>
 
-<!-- CARD CONTAINER -->
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-
+<p align="center">
   <img
-    style="max-width: 420px; width:100%; height:auto;"
+    style="max-width:300px; width:70%; height:auto;"
     src="https://github-readme-stats-two-wine.vercel.app/api/wakatime?username=Icorebleidd&theme=radical&hide_border=true&layout=compact&display_format=percent"
   />
 
   <img
-    style="max-width: 420px; width:100%; height:auto;"
+    style="max-width:300px; width:70%; height:auto;"
     src="https://github-readme-streak-stats.herokuapp.com?user=Icorebleidd&theme=radical&hide_border=true"
   />
-
-</div>
+</p>
 
 <br/>
 
